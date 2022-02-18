@@ -58,45 +58,45 @@ Ctrl + Shift + M	        | Mostrar el panel de problemas                      |
 ¹ Alt + Derecha	            | Adelante                                           |
 
 
-| **Encontrar y reemplazar**| CONTENT                                                            |
-| ------------------------- | ------------------------------------------------------------------ |
-Ctrl + F	                |Abra el cuadro de diálogo Buscar                                    |
-Ctrl + H	                |Abra el cuadro de diálogo Reemplazar                                |
-Ctrl + Shift + H	        |Reemplazar en archivos                                              |
-¹F3	                        |Encuentra el siguiente                                              |
-¹ Mayús + F3	            |Encontrar anterior                                                  |
-Alt + Enter	                |Seleccione todas las coincidencias para el término de búsqueda.     |
-Ctrl + D	                |Agregar la selección actual a Buscar coincidencia                   |
-Ctrl + K, Ctrl + D          |	Mover la selección anterior a la siguiente Buscar coincidencia   |
+| **Encontrar y reemplazar**| CONTENT                                                             |
+| ------------------------- | ------------------------------------------------------------------- |
+Ctrl + F	                | Abra el cuadro de diálogo Buscar                                    |
+Ctrl + H	                | Abra el cuadro de diálogo Reemplazar                                |
+Ctrl + Shift + H	        | Reemplazar en archivos                                              |
+¹F3	                        | Encuentra el siguiente                                              |
+¹ Mayús + F3	            | Encontrar anterior                                                  |
+Alt + Enter	                | Seleccione todas las coincidencias para el término de búsqueda.     |
+Ctrl + D	                | Agregar la selección actual a Buscar coincidencia                   |
+Ctrl + K, Ctrl + D          | Mover la selección anterior a la siguiente Buscar coincidencia      |
 
 
 
-| **Selección múltiple y cursores**       | CONTENT                                            |
-| --------------------------------------- | -------------------------------------------------- |
-Ctrl + L	                              |Selecciona la línea actual
-Ctrl + Shift + L	                      |Seleccionar todas las instancias de la selección actual
-Ctrl + F2	                              |Seleccionar todas las coincidencias de la palabra actual
-¹ Mayús + Alt + Flecha derecha	          |Ampliar selección
-¹ Mayús + Alt + Flecha izquierda	      |Reducir la selección
-Alt + clic	                              |Insertar cursor
-Ctrl + Alt + Flecha arriba / Flecha abajo |Inserte el cursor encima o debajo de la fila actual
-Ctrl + U	                              |Deshacer el último cursor
-Shift + Alt + I	                          |Inserte el cursor al final de cada fila seleccionada
+| **Selección múltiple y cursores**       | CONTENT                                                  |
+| --------------------------------------- | -------------------------------------------------------- |
+Ctrl + L	                              | Selecciona la línea actual                               |
+Ctrl + Shift + L	                      | Seleccionar todas las instancias de la selección actual  |
+Ctrl + F2	                              | Seleccionar todas las coincidencias de la palabra actual |
+¹ Mayús + Alt + Flecha derecha	          | Ampliar selección                                        |
+¹ Mayús + Alt + Flecha izquierda	      | Reducir la selección                                     |
+Alt + clic	                              | Insertar cursor                                          |
+Ctrl + Alt + Flecha arriba / Flecha abajo | Inserte el cursor encima o debajo de la fila actual      |
+Ctrl + U	                              | Deshacer el último cursor                                |
+Shift + Alt + I	                          | Inserte el cursor al final de cada fila seleccionada     |
 
 
 | **Gestión del editor dividido.**                  | CONTENT                                                |
 | ------------------------------------------------- | ------------------------------------------------------ |
-Ctrl +	                                            |Editor dividido                                         |
-Ctrl + 1/2/3	                                    |Centrarse en el panel del editor 1, 2 o 3               |
-Ctrl + K, Ctrl + Flecha derecha / Flecha izquierda  |Centrarse en el panel del editor siguiente / anterior   |
-¹Ctrl + Shift + PgUp	                            |Mueve el editor a la izquierda                          |
-¹Ctrl + Mayús + Av Pág	                            |Mueve el editor a la derecha                            |
+Ctrl +	                                            | Editor dividido                                        |
+Ctrl + 1/2/3	                                    | Centrarse en el panel del editor 1, 2 o 3              |
+Ctrl + K, Ctrl + Flecha derecha / Flecha izquierda  | Centrarse en el panel del editor siguiente / anterior  |
+¹Ctrl + Shift + PgUp	                            | Mueve el editor a la izquierda                         |
+¹Ctrl + Mayús + Av Pág	                            | Mueve el editor a la derecha                           |
 
 
 
 | **Terminal integrado**    | CONTENT                                            |
 | ------------------------- | -------------------------------------------------- |
-¹Ctrl + `	                |Mostrar terminal integrado                          |
-¹Ctrl + Mayús + `	        |Crear una nueva instancia de terminal               |
+¹Ctrl + `	                | Mostrar terminal integrado                         |
+¹Ctrl + Mayús + `	        | Crear una nueva instancia de terminal              |
 Ctrl + flecha arriba / flecha abajo	Desplazarse hacia arriba / abajo             |
 Ctrl + Inicio / Fin	Desplazarse hacia arriba /abajo                              |
