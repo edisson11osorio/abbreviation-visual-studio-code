@@ -40,7 +40,7 @@
 Ctrl + Shift + [    | Doblar la región                                   |
 Ctrl + Shift +]	    | Región explicada                                   |
 Ctrl + K, Ctrl + [	| Doblar todas las subregiones                       |
-Ctrl + K, Ctrl +]	| Explicar todas las subregiones.                    |
+Ctrl + K, Ctrl +]	| Explicar todas las subregiones.                      |
 Ctrl + K, Ctrl + 0	| Doblar todas las regiones                          | 
 Ctrl + K, Ctrl + J	| Explicar todas las regiones.                       |
 
@@ -51,11 +51,11 @@ Ctrl + P	                | Ir al archivo                                      |
 Ctrl + G	                | Ir a la linea                                      |
 Ctrl + T	                | Mostrar todos los símbolos                         |
 Ctrl + Shift + O	        | Ir al símbolo                                      |
-F8	                        | Ir al siguiente error o advertencia                |
-Shift + F8	                | Ir al error o advertencia anterior                 |
+F8	                        | Ir al siguiente error o advertencia               |
+Shift + F8	                | Ir al error o advertencia anterior               |
 Ctrl + Shift + M	        | Mostrar el panel de problemas                      |
 ¹Alt + Izquierda	        | Vuelve                                             |
-¹ Alt + Derecha	            | Adelante                                           |
+¹ Alt + Derecha	            | Adelante                                         |
 
 
 | **Encontrar y reemplazar**| CONTENT                                                             |
